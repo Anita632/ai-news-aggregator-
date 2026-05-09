@@ -12,11 +12,6 @@ The AI News Aggregator is designed to autonomously gather news articles from var
 - **AI-Powered Summarization**: Utilizes state-of-the-art models to generate concise summaries.
 - **Seamless Publishing**: Automatically updates the frontend with the latest summaries.
 
-## Team Members
-
-- **Sourabh Sah**: Web Crawling and Data Extraction
-- **Ravi Prakash Srivastava**: Summarization and Blog Generation
-- **Nainika Anand**: Publishing and Frontend Integration
 
 ## Setup Instructions
 
